@@ -1,0 +1,1 @@
+Anaconda Navigator new environment is called Manj2Caduceye.Its location on your machine is at C:\Users\User\Anaconda3\envs\Manj2CaduceyeProject configuration is in C:\Windows\System32\demo_app\anaconda-project.yml To activate this environment, use $ conda activate C:\Windows\System32\demo_app\envs\defaultTo deactivate an active environment, use $ conda deactivate.
